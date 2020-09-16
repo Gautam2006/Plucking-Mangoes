@@ -100,7 +100,7 @@ function draw() {
 		image(boyImage, 400, 575, 300, 300)
 		DetectCollision(stone, mango1);
 		DetectCollision(stone, mango2);
-		DetectCollision(stone, mango1);
+		DetectCollision(stone, mango3);
 		DetectCollision(stone, mango4);
 		DetectCollision(stone, mango5);
 		DetectCollision(stone, mango6);
